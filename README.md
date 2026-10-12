@@ -1,4 +1,4 @@
-# 🧩 Sudoku Web Game
+# Sudoku Web Game
 
 A fully-featured, mobile-friendly Sudoku puzzle game built with **HTML, CSS, and JavaScript**.
 
